@@ -1,4 +1,0 @@
-RedCoLa
-=======
-
-Redstone Controlled Lasers
